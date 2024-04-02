@@ -1,0 +1,3 @@
+# Early-stopping to stop overfitting in the stock market analysis
+
+This research endeavors to develop a comprehensive predictive model for analyzing and forecasting stock market trends across multiple companies. Leveraging Long Short-Term Memory (LSTM) neural networks, the study explores the intricate dynamics of stock prices, aiming to enhance predictive accuracy and generalizability. The methodology employs a diverse dataset comprising opening and closing prices, highest and lowest values, adjusted closing prices, stock volumes, and associated date information for companies such as Amazon, Apple, Google, Microsoft, and Netflix.
